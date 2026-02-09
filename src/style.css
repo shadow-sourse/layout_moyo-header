@@ -19,6 +19,7 @@ header {
 }
 
 .logo_img {
+  display: block;
   height: 40px;
 }
 
