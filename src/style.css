@@ -11,14 +11,14 @@ body {
   font-style: normal;
 }
 
-header {
+.site-header {
   display: flex;
   align-items: center;
   justify-content: space-between;
   padding: 0 50px;
 }
 
-.logo_img {
+.logo {
   display: block;
   height: 40px;
 }
@@ -28,6 +28,7 @@ header {
   margin: 0;
   padding: 0;
   list-style: none;
+
 }
 
 .nav_link {
@@ -35,6 +36,7 @@ header {
 
   display: flex;
   align-items: center;
+  justify-content: center;
 
   font-size: 12px;
 
